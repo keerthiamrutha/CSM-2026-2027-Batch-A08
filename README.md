@@ -1,1 +1,1 @@
-# CSM-2026-2027-Batch-A08
+Context Aware MultiModal AI for worker Safety and Hazard Detection
